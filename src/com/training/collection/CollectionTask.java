@@ -7,6 +7,12 @@ public class CollectionTask {
 	public int id;
 	public String name;
 
+	/**
+	 * Constructor
+	 * 
+	 * @param a
+	 * @param s
+	 */
 	public CollectionTask(int a, String s) {
 		this.id = a;
 		this.name = s;
